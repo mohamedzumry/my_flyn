@@ -33,7 +33,6 @@ dependencies:
     sdk: flutter
   flutter_native_splash: ^2.4.6
   get: ^4.7.2
-  rename_app: ^1.6.5
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to
